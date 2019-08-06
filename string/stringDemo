@@ -1,0 +1,3 @@
+string_1="Mutex Programming"
+string_1.replace("a","$")
+print string_1
